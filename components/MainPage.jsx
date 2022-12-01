@@ -22,7 +22,9 @@ const MainPage = () => {
         <ul>
           <li>
             <a href="#">
-              <Card personImage="../images/1.jpg" />
+              <Card personImage="../images/1.jpg"
+     name="Sean harris"
+                position="Managing director"/>
             </a>
             <ul>
               <li>
